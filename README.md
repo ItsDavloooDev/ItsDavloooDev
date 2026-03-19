@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java, React**
 
-- 👨‍💻 All of my projects are available at [https://itsdavlooo.it](https://itsdavlooo.it)
+- 👨‍💻 All of my projects are available at [https://davlooo.it](https://davlooo.it)
 
 - 📫 How to reach me **support@itsdavlooo.it**
 
