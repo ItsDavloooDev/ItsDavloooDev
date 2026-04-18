@@ -10,10 +10,10 @@ I'm a **developer from Verona, Italy**, passionate about backend, game servers a
 I love working with **Java**, **Node.js**, and modern web tech like **React**, and I'm always looking to improve performance and code quality.
 
 I'm currently attending an **IT high school** and in my free time I work on personal projects, Minecraft servers, and experiment with new tools, frameworks and Linux setups.  
-You can find my projects and more about me on my **portfolio**: [https://davlooo.it](https://davlooo.it)
+You can find my projects and more about me on my **portfolio**: Maintenance
 
 - 🌱 I’m currently learning **Java, React**
-- 👨‍💻 All of my projects are available at [https://davlooo.it](https://davlooo.it)
+- 👨‍💻 All of my projects are available at Maintenance
 - 📫 How to reach me: **davide@davlooo.it**
 
 ---
