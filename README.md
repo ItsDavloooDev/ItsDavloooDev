@@ -23,32 +23,44 @@
 
 ---
 
+## 💬 Discord
+
+<p align="left">
+  <a href="https://discord.com/users/1208096916030627970">
+    <img src="https://lanyard.cnrad.dev/api/1208096916030627970?theme=dark&bg=0d1117&borderRadius=15px&animated=true&hideDiscrim=true&hideDecoration=true" alt="Discord Presence" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://discord.com/users/1208096916030627970">
+    <img src="https://img.shields.io/badge/Discord-1208096916030627970-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
+  </a>
+</p>
+
 ## 🧠 Tech & Tools
 
 <p align="left">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,php,java,py,cpp,cs,mysql,sqlite,mongodb,nginx,linux,docker,git,ps&perline=10" alt="Tech Stack" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,php,java,py,cpp,cs,mysql,sqlite,mongodb,nginx,linux,docker,git,ps&perline=10" alt="Tech Stack" />
 </p>
 
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsdavlooodev&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itsdavlooodev&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&v=1" alt="GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsdavlooodev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsdavlooodev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&v=1" alt="Top Languages" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=itsdavlooodev&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=itsdavlooodev&theme=tokyonight&hide_border=false&v=1" alt="GitHub Streak" />
 </p>
 
-## 💬 Discord
+## 🐍 Contributions
 
-<p align="left">
-  <a href="https://discord.com/users/1208096916030627970">
-    <img src="https://lanyard.cnrad.dev/api/1208096916030627970?theme=dark&bg=0d1117&borderRadius=15px&animated=true&hideDiscrim=true&hideDecoration=true&hideBadges=true" alt="Discord Presence" />
-  </a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsdavlooodev/itsdavlooodev/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsdavlooodev/itsdavlooodev/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/itsdavlooodev/itsdavlooodev/output/github-contribution-grid-snake.svg" />
+</picture>
