@@ -26,7 +26,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats-eight.vercel.app?user=itsdavlooodev&theme=merko&hide_border=false" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats-eight-chi.vercel.app?user=itsdavlooodev&theme=merko&hide_border=false" alt="GitHub Streak" />
     </td>
     <td>
       <a href="https://discord.com/users/1208096916030627970">
