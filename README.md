@@ -23,7 +23,20 @@
 
 ---
 
-## 🧠 Tech & Tools
+## GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=itsdavlooodev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app?user=itsdavlooodev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsdavlooodev&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+</p>
+
+---
+
+## Tech & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,php,java,py,cpp,cs,mysql,sqlite,mongodb,nginx,linux,docker,git,ps&perline=10" alt="Tech Stack" />
