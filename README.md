@@ -29,11 +29,12 @@
       <img src="https://github-readme-streak-stats-eight.vercel.app?user=itsdavlooodev&theme=merko&hide_border=false" alt="GitHub Streak" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsdavlooodev&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-    </td>
-    <td>
       <a href="https://discord.com/users/1208096916030627970">
         <img src="https://lanyard.cnrad.dev/api/1208096916030627970?theme=dark&bg=282A36&borderRadius=15px&animated=true" alt="Discord Presence" />
+      </a>
+      <br><br>
+      <a href="https://discord.com/users/1208096916030627970">
+        <img src="https://img.shields.io/badge/Discord-1208096916030627970-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
       </a>
     </td>
   </tr>
