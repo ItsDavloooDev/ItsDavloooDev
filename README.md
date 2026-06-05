@@ -23,43 +23,16 @@
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=itsdavlooodev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats-eight-chi.vercel.app?user=itsdavlooodev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsdavlooodev&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-</p>
-
----
-
-## Discord Presence
-
-<p align="center">
-  <a href="https://discord.com/users/1208096916030627970">
-    <img src="https://lanyard.cnrad.dev/api/1208096916030627970?theme=dark&bg=282A36&borderRadius=15px&animated=true" alt="Discord Presence" />
-  </a>
-</p>
-
----
-
-## Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsdavlooodev&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/itsdavlooodev/itsdavlooodev/output/github-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
-## Tech & Tools
+## 🧠 Tech & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,php,java,py,cpp,cs,mysql,sqlite,mongodb,nginx,linux,docker,git,ps&perline=10" alt="Tech Stack" />
+</p>
+
+---
+
+## 🐍 Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/itsdavlooodev/itsdavlooodev/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
