@@ -4,42 +4,72 @@
   <img src="https://komarev.com/ghpvc/?username=itsdavlooodev&label=Profile%20views&color=0e75b6&style=flat" alt="itsdavlooodev" />
 </p>
 
-I prefer to be called **Davide**, but online I'm also known as **ItsDavlooo**.
+<p align="left">
+  I prefer to be called <strong>Davide</strong>, but online I'm also known as <strong>ItsDavlooo</strong>.
+</p>
 
-I'm a **developer from Verona, Italy**, passionate about backend, game servers and web development.  
-I love working with **Java**, **Node.js**, and modern web tech like **React**, and I'm always looking to improve performance and code quality.
+<p align="left">
+  I'm a <strong>developer from Verona, Italy</strong>, passionate about backend, game servers and web development.
+  I enjoy working with <strong>Java</strong>, <strong>Node.js</strong>, and modern web tech like <strong>React</strong>, always trying to improve performance, structure and code quality.
+</p>
 
-I'm currently attending an **IT high school** and in my free time I work on personal projects, Minecraft servers, and experiment with new tools, frameworks and Linux setups.  
-You can find my projects and more about me on my **portfolio**: Maintenance
+<p align="left">
+  I'm currently attending an <strong>IT high school</strong> and in my free time I build personal projects, manage Minecraft servers, and experiment with Linux setups, infrastructure and new tools.
+</p>
 
 - 🌱 I’m currently learning **Java, React**
-- 👨‍💻 All of my projects are available at Maintenance
+- 👨‍💻 All of my projects are available at **Maintenance**
 - 📫 How to reach me: **davide@davlooo.it**
 
 ---
 
-### 🧠 Tech & Tools
+<div align="center">
+  <table>
+    <tbody>
+      <tr>
+        <td align="left">
+          <h3>who i am</h3>
+          <ul>
+            <li>backend and web developer focused on useful, clean and scalable projects</li>
+            <li>minecraft server admin who likes optimizing configs, plugins and infrastructure</li>
+            <li>night-time builder with too many ideas, side projects and experiments running at once</li>
+          </ul>
+          <h3>what i'm aiming for</h3>
+          <ul>
+            <li>better architectures that stay readable even after months</li>
+            <li>faster, cleaner and more reliable code for web apps and game systems</li>
+            <li>stronger skills in backend development, devops and server security</li>
+            <li>building projects that are actually useful, not just cool on paper</li>
+          </ul>
+          <p>&nbsp;</p>
+        </td>
+        <td align="center">
+          <a href="https://discord.com/users/1208096916030627970">
+            <img src="https://lanyard.cnrad.dev/api/1208096916030627970?theme=dark&bg=0d1117&borderRadius=15px&animated=true" alt="Discord Presence" />
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
-[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,php,java,py,cpp,cs,mysql,sqlite,mongodb,nginx,linux,docker,git,ps)](#)
-
----
-
-### 🌐 Social & Communities
-
-[![discord](https://skillicons.dev/icons?i=discord&theme=light)](https://discord.gg/shadesmc)
-
----
-
-### 📊 GitHub Stats
+## 🧠 Tech & Tools
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsdavlooodev&show_icons=true&locale=en&layout=compact" alt="top-langs" />
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,php,java,py,cpp,cs,mysql,sqlite,mongodb,nginx,linux,docker,git,ps&perline=10" />
+  </a>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsdavlooodev&show_icons=true&locale=en" alt="stats" />
-</p>
+## 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsdavlooodev" alt="streak" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsdavlooodev&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsdavlooodev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
